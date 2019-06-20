@@ -41,7 +41,6 @@ qmq的客户端已经发布到maven中央仓库，可以通过下面的方式获
     <version>1.1.3</version>
 </dependency>
 ```
-
 # 快速开始
 你可以通过[设计背景](docs/cn/design.md)了解设计QMQ的初衷和它与其他消息队列的不同。
 阅读[架构概览](docs/cn/arch.md)了解QMQ的存储模型
